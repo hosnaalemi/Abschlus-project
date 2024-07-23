@@ -22,7 +22,6 @@
 
 <div align="center">
   
-#[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
